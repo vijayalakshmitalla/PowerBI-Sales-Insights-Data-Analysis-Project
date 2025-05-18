@@ -102,7 +102,7 @@ This project demonstrates the value of data analysis and visualization in making
 
 ---
 
-**Connect with me on [LinkedIn]((https://www.linkedin.com/in/vijayalakshmi-talla/))** if you'd like to discuss this project or explore more about my work in data analysis.
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/vijayalakshmi-talla/)** if you'd like to discuss this project or explore more about my work in data analysis.
 
 ---
 
